@@ -186,20 +186,9 @@ volume sphere html form
 | "http://farm1.staticflickr.com/33/45336904_1aef569b30_n.jpg"   | 320 | 195| |
 | "http://farm6.staticflickr.com/5211/5384592886_80a512e2c9.jpg"   | 500 | 343|
 
-12. Write a JavaScript program to highlight the bold words of the following paragraph, on mouse over a certain link.
-    Sample link and text :
-    [On mouse over here bold words of the following paragraph will be highlighted]
-    We have just started this section for the users (beginner to intermediate) who want to work with various JavaScript problems and write scripts online to test their JavaScript skill.
+12. Write a JavaScript program to highlight the bold words of the following paragraph:
+    
+Most apps have a series of **nested** layouts around the main sections of the page. These **layouts** are nearly always coupled to **URL** segments.
+    
 
 13. Write a JavaScript program to get the width and height of the window (any time the window is resized).
-
-event handlers
-
-<div onclick="console.log('div')">
-  <p onclick="console.log('p')">
-    Click here!
-  </p>
-</div>
-If we click p, we see two logs: p and div. During event propagation, there are 3 phases: capturing, target, and bubbling. By default, event handlers are executed in the bubbling phase (unless you set useCapture to true). It goes from the deepest nested element outwards.
-
-Ref: https://bit.ly/323Y0P6
