@@ -188,7 +188,7 @@ volume sphere html form
 
 12. Write a JavaScript program to highlight the bold words of the following paragraph:
     
-Most apps have a series of **nested** layouts around the main sections of the page. These **layouts** are nearly always coupled to **URL** segments.
+- Most apps have a series of **nested** layouts around the main sections of the page. These **layouts** are nearly always coupled to **URL** segments.
     
 
 13. Write a JavaScript program to get the width and height of the window (any time the window is resized).
